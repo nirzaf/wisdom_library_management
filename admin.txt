@@ -1,0 +1,10 @@
+admin1 p1
+admin2 p2
+admin3 p3
+admin4 p4
+admin5 p5
+admin6 p6
+admin7 p7
+admin8 p8
+admin9 p9
+admin10 p10

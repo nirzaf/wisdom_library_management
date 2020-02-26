@@ -1,0 +1,10 @@
+user1 Logged in 2016-02-14.18:23:00 || Logged out - 2016-02-14.18:24:18
+user3 Logged in 2016-02-14.18:24:33 || Logged out - 2016-02-14.18:25:12
+user1 Logged in 2016-02-15.00:06:12 || Logged out - 2016-02-15.00:07:59
+user1 Logged in 2016-02-18.09:05:46 || Logged out - 2016-02-18.09:06:01
+user1 Logged in 2016-02-18.09:09:17 || Logged out - 2016-02-18.09:20:06
+user1 Logged in 2016-02-18.11:27:13 || Logged out - 2016-02-18.11:27:17
+user1 Logged in 2016-02-18.20:39:33 || Logged out - 2016-02-18.20:42:22
+user1 Logged in 2016-02-20.09:29:02 || Logged out - 2016-02-20.09:29:05
+user4 Logged in 2016-02-20.12:08:37 || Logged out - 2016-02-20.12:08:40
+user3 Logged in 2016-02-20.16:14:21 || Logged out - 2016-02-20.16:14:27
